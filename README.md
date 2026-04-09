@@ -40,7 +40,8 @@ PjBL/
 ├── backend/
 ├── frontend/
 ├── PjBL_EduardoTeodoro.sql
-└── .gitignore
+├── .gitignore
+└── README.md
 ```
 ---
 
